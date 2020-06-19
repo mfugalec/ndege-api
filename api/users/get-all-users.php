@@ -1,6 +1,7 @@
 <?php
 
 	// returns a list of users in a json format
+	// added more comments
 
 	require_once('../config/database.php');
 
